@@ -1,0 +1,73 @@
+{
+    "com.nexstreaming.app.kinemasterfree": {
+        "credits": "nop",
+        "showDialog": true,
+        "title": "Mod by @kafuHex",
+        "message": "tes dialog",
+        "showTopButton": true,
+        "topButtonText": "Join Channel",
+        "topButtonUrl": "https://t.me/TheHiddenFools",
+        "showBottomButton": true,
+        "bottomButtonText": "Maybe Later",
+        "showSecretButton": true,
+        "secretButtonText": "test button",
+        "secretButtonUrl": "https://nhentai.net",
+        "imageUrl": "https://images2.imgbox.com/f4/db/Sxwu5XNU_o.jpg",
+        "maxShowCount": 3,
+        "controlByShowCount": false,
+        
+        "updateConfig": {
+        "updateMonitor": false,
+        "requiredVersion": "9999",
+        "requiredVersionCode": 126,
+        "title": "Mod by @kafuHex",
+        "message": "telegram: https://t.me/TheHiddenFools",
+        "showTopButton": true,
+        "topButtonText": "test update",
+        "topButtonUrl": "https://t.me/TheHiddenFools",
+        "showBottomButton": true,
+        "bottomButtonText": "Maybe Later",
+        "showSecretButton": false,
+        "secretButtonText": "test button",
+        "secretButtonUrl": "https://nhentai.net",
+        "imageUrl": "https://images2.imgbox.com/f4/db/Sxwu5XNU_o.jpg"
+        }
+    },
+    
+    "package Name2": {
+        "credits": "@KafuHex",
+        "showDialog": true,
+        "title": "Mod by @kafuHex",
+        "message": "telegram: https://t.me/TheHiddenFools",
+        "showTopButton": true,
+        "topButtonText": "Join Channel",
+        "topButtonUrl": "https://t.me/TheHiddenFools",
+        "showBottomButton": true,
+        "bottomButtonText": "Maybe Later",
+        "showSecretButton": true,
+        "secretButtonText": "test button",
+        "secretButtonUrl": "https://nhentai.net",
+        "imageUrl": "https://images2.imgbox.com/f4/db/Sxwu5XNU_o.jpg",
+        "maxShowCount": 3,
+        "controlByShowCount": false,
+        
+        "updateConfig": {
+        "updateMonitor": false,
+        "requiredVersion": "9999",
+        "requiredVersionCode": 126,
+        "title": "Mod by @kafuHex",
+        "message": "telegram: https://t.me/TheHiddenFools",
+        "showTopButton": true,
+        "topButtonText": "test update",
+        "topButtonUrl": "https://t.me/TheHiddenFools",
+        "showBottomButton": true,
+        "bottomButtonText": "Maybe Later",
+        "showSecretButton": false,
+        "secretButtonText": "test button",
+        "secretButtonUrl": "https://nhentai.net",
+        "imageUrl": "https://images2.imgbox.com/f4/db/Sxwu5XNU_o.jpg"
+        }
+    }
+    
+    
+}

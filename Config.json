@@ -34,7 +34,7 @@
         }
     },
     
-    "package Name2": {
+    "com.hello": {
         "credits": "@KafuHex",
         "showDialog": true,
         "title": "Mod by @kafuHex",
